@@ -1,0 +1,5 @@
+{
+  "name": "Personal Finance Manager",
+  "description": "A web application to manage personal finances, including bank accounts and transactions. Allows users to register accounts, record debit/credit transactions, and transfer funds between accounts.",
+  "requestFramePermissions": []
+}
